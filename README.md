@@ -73,6 +73,10 @@ kubectl get nodes
 ```
 
 
+### Troubleshooting
+
+If the step 5 (Terraform apply) fails, run the apply command once again. If it keeps failing save the output logs and reach out to me on Github. 
+
 ### Cleanup
 1. If the deployment is not needed anymore, run the following command to delete the deployment. Enter yes when prompted.
 
