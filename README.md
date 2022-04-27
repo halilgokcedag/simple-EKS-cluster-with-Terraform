@@ -37,8 +37,8 @@ Note: If you have already another Kubernetes cluster configured in your local ku
 1. Clone the repo and go to the deployment directory.
 
 ```
-git clone https://github.com/halilgokcedag/????.git
-cd ????
+git clone https://github.com/halilgokcedag/simple-EKS-cluster-with-Terraform.git
+cd simple-EKS-cluster-with-Terraform/
 ```
 
 2. Run aws configure to enter AWS keys on your computer. Choose region as us-east-1.
